@@ -44,7 +44,7 @@ print(f"Have a nice day, {name}.")
 
 May be one `print()` statement just make one syscall.. But I am not sure..
 
-Time:  O(1) ->  ≈3 ms
+Time:  O(1) ->  ≈2 ms
 Space: O(1) ->  ≈N bits (N = total No. of character user inputs)
 
 ```python
