@@ -18,11 +18,12 @@ Ask user's age & print the status
 
 ## Edge Cases
 
-User may even enter a negative number or zero as age.. but i guess we will ignore..
+Following assume that `(No validation. Assume the input makes sense.)` not read by you:
 
-We can even write if else for check that.. I guess it not needed as someone, who is -2 year is still a minor, either ways.. 
-
-(anyways, the optimized code cover this edge cases)
+> User may even enter a negative number or zero as age.. but i guess we will ignore..
+> We can even write if else for check that.. I guess it not needed as someone, who is -2 year is still a minor, either ways.. 
+>
+> (anyways, the optimized code cover this edge cases)
 
 
 
