@@ -6,7 +6,7 @@ though that not the goal... the repository is solely for documenting my journey 
 
 ## Manifesto
 
-you can checkout the [manifesto](manifesto.md) or get more infomation, about what and why this is.
+you can checkout the [manifesto (rewitten by chatgpt)](manifesto.md) or get more infomation, about what and why this is.
 
 ## Rules & Structure (Abstract)
 
